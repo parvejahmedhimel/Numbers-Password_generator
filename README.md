@@ -47,9 +47,9 @@ A simple web-based random PIN/password generator using only numbers. This tool a
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots(mobile version)
 
-mobile verson
+
 ![Screenshot](https://github.com/parvejahmedhimel/Numbers-Password_generator/blob/main/Screenshot%202025-06-14%20164109.png)
 ---
 
