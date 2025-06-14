@@ -2,22 +2,23 @@
 
 A simple web-based random PIN/password generator using only numbers. This tool allows users to generate secure 4-digit PINs with a single click.
 
-![Screenshot](https://github.com/parvejahmedhimel/Numbers-Password_generator/blob/main/Screenshot%202025-06-14%20164109.png)
+**Main UI:**  
+![UI Screenshot](https://github.com/parvejahmedhimel/Numbers-Password_generator/blob/main/Screenshot%202025-06-14%20164057.png)
 
 ---
 
 ## 🌐 Live Preview
 
-👉 [Click Here to Try the Password Generator](https://parvejahmedhimel.github.io/Numbers-Password_generator/)  
-*(Hosted via GitHub Pages)*
+👉 [Click Here to Try the Password Generator](https://passwordmakingbd.netlify.app/)  
+*(Hosted via Netlify)*
 
 ---
 
 ## ✨ Features
 
-- 🔢 Generates 4-digit numeric passwords (PINs)
+- 🔢 Generates 8-digit numeric passwords (PINs)
 - 🔁 Regenerate on button click
-- ✅ Ensures the PIN is exactly 4 digits
+- ✅ Ensures the PIN is exactly 8 digits
 - 📱 Fully responsive & mobile-friendly interface
 - 💡 Easy to understand code — beginner-friendly!
 
@@ -48,9 +49,8 @@ A simple web-based random PIN/password generator using only numbers. This tool a
 
 ## 📸 Screenshots
 
-**Main UI:**  
-![UI Screenshot](https://github.com/parvejahmedhimel/Numbers-Password_generator/blob/main/Screenshot%202025-06-14%20164057.png)
-
+mobile verson
+![Screenshot](https://github.com/parvejahmedhimel/Numbers-Password_generator/blob/main/Screenshot%202025-06-14%20164109.png)
 ---
 
 ## 📂 Project Structure
@@ -79,10 +79,20 @@ Explore more at 👉 [https://github.com/parvejahmedhimel](https://github.com/pa
 
 ## 🙋 Author
 
-**Parvej Ahmed Himel**  
-📫 [Portfolio Website](https://parvejahmed.top)  
-🔗 [LinkedIn](https://www.linkedin.com/in/parvej-ahmed-6bb453351)  
-📧 Email: contact@parvejahmed.top
+<table>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/191766460?v=4" width="100" height="100" style="border-radius: 50%;" alt="Parvej Ahmed Himel">
+    </td>
+    <td>
+      <strong>Parvej Ahmed Himel</strong><br>
+      💼 Web Developer & Student<br>
+      🌐 <a href="https://parvejahmed.top">parvejahmed.top</a><br>
+      🔗 <a href="https://www.linkedin.com/in/parvej-ahmed-6bb453351">LinkedIn Profile</a><br>
+      📧 Email: contact@parvejahmed.top
+    </td>
+  </tr>
+</table>
 
 ---
 
